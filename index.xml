@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Stagg Systems</title>
+    <title>Stagg Systems Blog Site</title>
     <link>https://staggsystems.github.io/</link>
-    <description>Recent content on Stagg Systems</description>
+    <description>Recent content on Stagg Systems Blog Site</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 22:27:43 -0400</lastBuildDate>
     <atom:link href="https://staggsystems.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://staggsystems.github.io/post/mypost/</link>
-      <pubDate>Thu, 15 May 2025 22:27:43 -0400</pubDate>
-      <guid>https://staggsystems.github.io/post/mypost/</guid>
-      <description>&lt;p&gt;This is the first post.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
