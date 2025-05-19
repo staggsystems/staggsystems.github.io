@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stagg Systems</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://staggsystems.github.io/categories/</link>
     <description>Recent content in Categories on Stagg Systems</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 12:40:56 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 20:35:01 -0400</lastBuildDate>
+    <atom:link href="https://staggsystems.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Examples</title>
-      <link>http://localhost:1313/categories/examples/</link>
+      <link>https://staggsystems.github.io/categories/examples/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/examples/</guid>
+      <guid>https://staggsystems.github.io/categories/examples/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholders</title>
-      <link>http://localhost:1313/categories/placeholders/</link>
+      <link>https://staggsystems.github.io/categories/placeholders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/placeholders/</guid>
+      <guid>https://staggsystems.github.io/categories/placeholders/</guid>
       <description></description>
     </item>
   </channel>
